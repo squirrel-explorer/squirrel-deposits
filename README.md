@@ -1,1 +1,2 @@
 # squirrel-deposits
+本repository只用于存放其他repositories引用的各类资源。
